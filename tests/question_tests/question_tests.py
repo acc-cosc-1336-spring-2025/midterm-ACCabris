@@ -10,3 +10,12 @@ class Test_Config(unittest.TestCase):
         self.assertEqual(True, test_config())
 
 
+from src.question_b.question_b
+
+
+from src.question_c.question_c
+
+
+from src.question_d.question_d
+
+
